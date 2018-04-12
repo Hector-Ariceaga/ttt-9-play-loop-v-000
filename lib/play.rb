@@ -44,11 +44,5 @@ while counter < 9
     turn(board)
     counter += 1
 
-until counter == 9
-  loop do
-    turn(board)
-    counter += 1
-  end
-
 end
 end
